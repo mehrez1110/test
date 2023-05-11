@@ -1,0 +1,17 @@
+{
+  "name": "test/test_4.mp3",
+  "bucket": "emodetector-fad51.appspot.com",
+  "generation": "1683495729901518",
+  "metageneration": "1",
+  "contentType": "audio/mpeg",
+  "timeCreated": "2023-05-07T21:42:09.933Z",
+  "updated": "2023-05-07T21:42:09.933Z",
+  "storageClass": "STANDARD",
+  "size": "21633",
+  "md5Hash": "c7nBPuFy3i/mQULe4I5MAA==",
+  "contentEncoding": "identity",
+  "contentDisposition": "inline; filename*=utf-8''test_4.mp3",
+  "crc32c": "mjRhow==",
+  "etag": "CM7f2KeW5P4CEAE=",
+  "downloadTokens": "edd8cd3b-af27-4655-a1c7-327d06dd73b4"
+}
